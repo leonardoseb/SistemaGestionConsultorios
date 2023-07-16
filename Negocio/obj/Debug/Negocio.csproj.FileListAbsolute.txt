@@ -1,0 +1,121 @@
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_V1\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Negocio.dll
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Negocio.pdb
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Dao.dll
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Entidades.dll
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Dao.pdb
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.dll
+C:\Users\admin\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_V2\TP_Integrador_PROGIII_GRUPO4\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4 V3\TP_Integrador_PROGIII_GRUPO4_v5\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Desktop\TIF - PROG3 07-12\TP_Integrador_PROGIII_GRUPO4_07-12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Negocio.dll
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Dao.dll
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Entidades.dll
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Dao.pdb
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\obj\Debug\Negocio.dll
+C:\Users\Damián\Desktop\Prog 3\TP_Integrador_PROGIII_GRUPO4_08-12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Downloads\Tp\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Downloads\Tp\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Tp\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Tp\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Downloads\Tp\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\Tp\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Dao.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.dll
+C:\Users\Mi\Desktop\TP_Integrador_PROGIII_GRUPO4_11-12_v1\TP_Integrador_PROGIII_GRUPO4_11-12\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Dao.dll
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Dao.pdb
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\PROGIII 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Dao.dll
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Entidades.dll
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Dao.pdb
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Downloads\TP_PROGIII_V1\TP_PROGIII_V1\Negocio\obj\Debug\Negocio.pdb
